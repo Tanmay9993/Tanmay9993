@@ -7,28 +7,29 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=gith
 
 </div>
 
+
 ## Tech Stack
  
 <table border=0>
 <tr>
 <td valign="top" width="33%" >
-<div align="center">
+<div align="left">
 <h3 >Languages</h3>
- 
+
 <img style="margin: 30px" alt="C"
-    src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />    
+    src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />        
 <img style="margin: 30px" alt="C++"
-    src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />    
+    src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />        
 <img style="margin: 30px" alt="Python"
     src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />   
 <img style="margin: 30px" alt="Java"
-    src="https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=javan&logoColor=white&color=blueviolet" />
+    src="https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white&color=blueviolet" />
     
 </div>
 </td>
   
  <td valign="top" width="33%">
-<div align="center">
+<div align="left">
 <h3>Libraries</h3>
 
 <img style="margin: 30px" alt="Keras"
@@ -46,7 +47,7 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=gith
 </td>
 
 <td valign="top" width="33%">
-<div align="center">
+<div align="left">
 <h3>Databases</h3>
  
 <img style="margin: 15px" alt="MySQL"
