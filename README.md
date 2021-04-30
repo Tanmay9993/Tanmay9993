@@ -7,8 +7,11 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=gith
 
 </div
 
-## Tech Stack:
 
+
+## Tech Stack
+ 
+ 
 <table>
 <tr>
 <td valign="top" width="33%">
@@ -56,7 +59,9 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=gith
 </tr>
 </table>
 
+
 ## Reach me:
+
 
 <a href="mailto:tanmay.unhale.9k@gmail.com">
 <img alt="Gmail"
