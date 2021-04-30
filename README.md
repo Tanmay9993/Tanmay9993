@@ -11,7 +11,7 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=gith
  
 <table border=0>
 <tr>
-<td valign="top" width="50%" >
+<td valign="top" width="100%" >
 <div align="center">
 <h3>Languages</h3>
  
@@ -30,7 +30,7 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=gith
 </div>
 </td>
   
- <td valign="top" width="50%">
+ <td valign="top" width="100%">
 <div align="center">
 <h3>Libraries</h3>
 
@@ -51,7 +51,7 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=gith
 </div>
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 <div align="center">
 <h3>Backend/Databases</h3>
  
