@@ -17,7 +17,6 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=gith
  
 <img style="margin: 30px" alt="C"
     src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
- 
 <img style="margin: 30px" alt="C++"
     src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
     
@@ -37,8 +36,7 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=gith
 <img style="margin: 30px" alt="Keras"
     src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white" />
 <img style="margin: 30px" alt="TensorFlow"
-    src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
-    
+    src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />    
 <img style="margin: 30px" alt="PyTorch"
     src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
     
@@ -57,7 +55,6 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=gith
  
 <img style="margin: 15px" alt="MySQL"
     src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
- 
 <img style="margin: 10px" alt="SQLite"
     src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
     
