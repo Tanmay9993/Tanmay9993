@@ -10,15 +10,13 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=flag
 </div>
 
 
-## Tech Stack
  
 
 
-<hr ">
-
+<hr >
+<h2 align="center">Tech Stack</h2>
 <div align="center" style = " border : true">
 <h3 align="center">Languages</h3>
-
 <p align = "center">
 <img style="margin: 30px" alt="C"
     src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />        
@@ -31,11 +29,10 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=flag
 </p>
 
 </div>
-<hr>
+
 
 <div align="center" >
 <h3 align="center">Libraries</h3>
-
 <p align = "center">
 <img style="margin: 30px" alt="Keras"
     src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white" />    
@@ -50,12 +47,10 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=flag
  </p>   
 </div>
 
-<hr>
 
 <div align="center">
 <h3 align="center">Databases</h3>
- 
- <p align = "center">
+<p align = "center">
 <img style="margin: 15px" alt="MySQL"
     src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />   
 <img style="margin: 10px" alt="SQLite"
@@ -64,7 +59,7 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=flag
     src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>    
 </div>
-<hr>
+
 <div align="center">
 <h3 align="center">IDE</h3>
  
