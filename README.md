@@ -34,6 +34,8 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=flag
 <div align="center" >
 <h3 align="center">Libraries</h3>
 <p align = "center">
+<img alt="OpenCV" style="margin: 30px"
+     src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
 <img style="margin: 30px" alt="Keras"
     src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white" />    
 <img style="margin: 30px" alt="TensorFlow"
