@@ -11,7 +11,7 @@
 
 <hr >
 <div align="center" style = " border : true">
-<p align = "center">       
+<p align = "left">       
 <img style="margin: 30px" alt="Python"
     src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkblue" />  
  <img style="margin: 30px" alt="Scikit"
