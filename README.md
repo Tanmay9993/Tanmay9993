@@ -22,10 +22,14 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=flag
     src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
  <img style="margin: 15px" alt="MySQL"
     src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />   
+ <img alt="PostGreSQL" 
+     src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt="Visual Studio Code"
      src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Jupyter" 
      src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+ 
+ 
 <hr>
 </p>
 </div>
