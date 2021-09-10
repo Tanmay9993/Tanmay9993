@@ -1,10 +1,10 @@
 
-<div align="center" style = " border : true">
-<p align = "center">
+<div align="center" >
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=default&show_icons=true&locale=en" alt="Tanmay9993" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanmay9993&show_icons=true&locale=en&layout=compact" alt="Tanmay9993"/>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=default&show_icons=true&locale=en" width="450" style="margin:50px 50px" alt="Tanmay9993" /> 
+    
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanmay9993&show_icons=true&locale=en&layout=compact" width="350" alt="Tanmay9993"/>
 
 </div>
 
