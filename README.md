@@ -15,20 +15,20 @@
     src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkblue" />  
  <img style="margin: 30px" alt="Scikit"
     src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=blue" />   
-<img alt="OpenCV" style="margin: 30px"
-     src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
 <img style="margin: 30px" alt="Pandas"
     src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />    
 <img style="margin: 30px" alt="NumPy"
     src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+<img alt="OpenCV" style="margin: 30px"
+     src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
+ <img alt="PowerBI" 
+     src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+ <img alt="GoogleAnalytics" 
+     src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
  <img style="margin: 15px" alt="MySQL"
     src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />   
  <img alt="PostGreSQL" 
      src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
- <img alt="PowerBI" 
-     src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
- <img alt="PowerBI" 
-     src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 <img alt="Visual Studio Code"
      src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Jupyter" 
