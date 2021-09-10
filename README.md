@@ -1,29 +1,33 @@
-### Hi there 👋
 
-<div style="text-align: center">
+<div align="center" style = " border : true">
 <p align = "center">
  
-[![Tanmay's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=flag-india&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/Tanmay9993/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanmay9993&show_icons=true&locale=en&layout=compact" alt="Tanmay9993"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=default&show_icons=true&locale=en" alt="Tanmay9993" />
 
-</p>
 </div>
 
 <hr >
 <div align="center" style = " border : true">
 <p align = "center">       
 <img style="margin: 30px" alt="Python"
-    src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&color=yellow" />   
+    src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkblue" />  
+ <img style="margin: 30px" alt="Scikit"
+    src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=blue" />   
 <img alt="OpenCV" style="margin: 30px"
      src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
 <img style="margin: 30px" alt="Pandas"
-    src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />    
+    src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />    
 <img style="margin: 30px" alt="NumPy"
-    src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+    src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
  <img style="margin: 15px" alt="MySQL"
-    src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />   
+    src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />   
  <img alt="PostGreSQL" 
      src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+ <img alt="PowerBI" 
+     src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+ <img alt="PowerBI" 
+     src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 <img alt="Visual Studio Code"
      src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Jupyter" 
@@ -39,6 +43,6 @@ stats](https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=flag
 
 <a href="https://www.kaggle.com/tanmayunhale">
 <img alt="Kaggle"
-src="https://img.shields.io/badge/Kaggle%20-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
+src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
 
