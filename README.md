@@ -20,11 +20,13 @@
     src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />    
 <img style="margin: 30px" alt="NumPy"
     src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+<img style="margin: 30px" alt="SciPy"
+    src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white&color=deepskyblue" />
 <img alt="OpenCV" style="margin: 30px"
      src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=tomato"/>
  <img alt="PowerBI" 
      src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
- <img alt="GoogleAnalytics" 
+ <img alt="DataStudio" 
      src="https://img.shields.io/badge/Data%20Studio-E37400?style=for-the-badge&logo=google%20analytics&logoColor=steelblue&color=turquoise" />
  <img style="margin: 15px" alt="MySQL"
     src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />   
