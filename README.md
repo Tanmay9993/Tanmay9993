@@ -1,11 +1,11 @@
-
+<body bgcolor = "yellow">
 <div align="left" >
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=default&show_icons=true&locale=en" width="450" alt="Tanmay9993" /> 
-    
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanmay9993&show_icons=true&locale=en&langs_count=8" width="320" alt="Tanmay9993"/>
-                                                                                                                      <!-- &layout = compact -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=default&show_icons=true&locale=en" width="530" height="255" alt="Tanmay9993" /> 
+ <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="205" />   
+   
+
 </div>
 
 
@@ -50,4 +50,4 @@
 <img alt="Kaggle"
 src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
-
+</body>
