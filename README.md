@@ -1,4 +1,4 @@
-<body bgcolor = "yellow">
+
 <div align="center" >
 
 
@@ -46,4 +46,4 @@
 <img alt="Kaggle"
 src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
-</body>
+
