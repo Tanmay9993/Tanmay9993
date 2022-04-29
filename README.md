@@ -1,14 +1,13 @@
 
 <div align="center" >
 
-
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay9993&theme=default&show_icons=true&locale=en" width="475" alt="Tanmay9993" /> -->
  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="350" />   
-   
 
 </div>
 
 
+<!--
 <hr >
 <div align="left" style = " border : true">
 <p align = "left">  
@@ -33,11 +32,10 @@
 <img alt="Visual Studio Code"
      src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
- 
- 
 <hr>
 </p>
 </div>
+
 
 
 ### Find me on kaggle :
@@ -46,4 +44,4 @@
 <img alt="Kaggle"
 src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
-
+-->
